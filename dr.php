@@ -1,15 +1,6 @@
-<?php
-$a=15;
-$b=50;
-
-echo $a+$b;
-
-?>
-
-
-
-
-
-
-
-
+	
+<?php  
+     $fname = "Gunjan";  
+     $lname = "Garg";  
+     echo "My name is: ".$fname,$lname;  
+?>  
